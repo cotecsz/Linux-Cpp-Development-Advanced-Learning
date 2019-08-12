@@ -1,4 +1,4 @@
-# [Git] Github 常用操作及其命令
+# [Git札记 2] Github 常用操作及其命令
 
 Git系列笔记记录日常Git命令使用。
 
@@ -40,13 +40,9 @@ or git push origin master
 
 ## Common Commands
 
-### Change directory name or file name
+### Local
 
-```bash
-git mv old_directory[old_file] new_directory[old_file] 
-```
-
-### Revoke commit (NOT PUSH)
+#### Revoke commit  (NOT PUSH)
 
 ```bash
 git commit --amend
@@ -54,7 +50,120 @@ git commit --amend
 
 
 
+
+
+### Remote
+
+#### Change directory name or file name
+
+```bash
+git mv old_directory[old_file] new_directory[old_file] 
+```
+
+#### Update local repository from romote repository
+
+##### Fetch directly to local and merge remote
+
+1. 在GitHub修改了文件，比如修改文件名，或者修改了文件
+2. 将远程仓库拉取至本地仓库
+
+```bash
+git remote -v # 查看远程仓库
+git fetch origin master# 拉取仓库至本地
+```
+
+3. 比较本地仓库与远程仓库区别
+
+```bash
+git log -p master.. origin/master
+```
+
+4. 合并本地仓库
+
+```bash
+git merge origin/master
+```
+
+##### Fetch indirectly to temp local and merge remote or delete temp
+
+1. 查看远程仓库
+
+```bash
+git remote -v 
+```
+
+2. 拉取仓库，暂存至本地暂存区
+
+```bash
+git fetch origin master:temp
+```
+
+3. 比较本地仓库和远程仓库
+
+```bash
+git diff temp
+```
+
+4. 合并/删除 `temp` 分支至 `master` 分支
+
+```bash
+git merge temp # 合并
+git branch -D temp # 删除
+```
+
+
+
+## Others
+
+1. 在 `Terminal` 查看使用Git 查看 `git status` ，中文使用八进制显示，如何解决？
+
+```bash
+git config --global core.quotepath false
+```
+
+2. Mac 修改文件后，`git status ` 无显示，如何设置全局忽略 `DS_Store`？
+
+   - 添加编辑 `home` 目录下的 `.gitignore_global` 文件
+
+   ```bash
+   vi ~/.gitignore_global
+   ```
+
+   - 添加下面两行
+
+   ```
+   .DS_Store
+   */.DS_Store
+   ```
+
+   - 查看 `home` 目录
+
+   ```bash
+   pwd
+   ```
+
+   - 修改 `home` 目录下 `gitconfig` 文件， 添加全局忽略规则
+
+   ```bash
+   vi ~/.gitconfig
+   ```
+
+   ```
+   [core]
+   	 excludesfile = /Users/zxxair/.gitignore_global
+   ```
+
+   
+
+
+
+
+
+
+
 ## Reference
 
 1. [Git重命名文件和文件夹](https://blog.csdn.net/shenwanjiang111/article/details/78776191)
 2. [Git修改上次提交的Commit](https://segmentfault.com/q/1010000000761908)
+3. [更新远程仓库至本地](https://blog.csdn.net/u012150179/article/details/17172211)
+4. [Mac git忽略.DS_Store](https://blog.csdn.net/q2826621520/article/details/79936763)
