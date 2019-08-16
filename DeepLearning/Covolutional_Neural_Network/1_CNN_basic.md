@@ -12,17 +12,19 @@
 
 基本思想：通过一个平面，
 
-<img src=".\images\distance.png" 
-     alt="drawing" 
-     width="400"/>
+<div align='center'>
+  <img src='assets/distance.png' width='600'>
+</div>
 
-<img src=".\images\loss.png" 
-     alt="drawing" 
-     width="400"/>
+<div align='center'>
+  <img src='assets/loss.png' width='600'>
+</div>
 
-<img src=".\images\proof.png" 
-     alt="drawing" 
-     width="500"/>
+<div align='center'>
+  <img src='assets/proof.png' width='600'>
+</div>
+
+
 
 ## Logistic Regression
 
