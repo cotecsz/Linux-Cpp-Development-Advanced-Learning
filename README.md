@@ -37,6 +37,18 @@
 
 
 
+## Numpy
+
+
+
+
+
+## Pytorch
+
+
+
+
+
 ## Other
 
 1. [Mac 新手上路](https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/Mac%20%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF.md)
