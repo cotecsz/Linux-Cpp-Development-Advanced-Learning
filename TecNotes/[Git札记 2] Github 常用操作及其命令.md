@@ -153,11 +153,14 @@ git config --global core.quotepath false
    	 excludesfile = /Users/zxxair/.gitignore_global
    ```
 
+   - 若修改中仍有 `.DS_Store` 文件，可能是已提交至Github，需要删除。
    
-
-
-
-
+   ```bash
+   git rm --cached .DS_Store
+   find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+   ```
+   
+   
 
 
 
@@ -166,4 +169,4 @@ git config --global core.quotepath false
 1. [Git重命名文件和文件夹](https://blog.csdn.net/shenwanjiang111/article/details/78776191)
 2. [Git修改上次提交的Commit](https://segmentfault.com/q/1010000000761908)
 3. [更新远程仓库至本地](https://blog.csdn.net/u012150179/article/details/17172211)
-4. [Mac git忽略.DS_Store](https://blog.csdn.net/q2826621520/article/details/79936763)
+4. [Mac git忽略.DS_Store](https://www.jianshu.com/p/e3d8eb2a4295)
