@@ -1,4 +1,4 @@
-# [Git 札记 3] Git基本概念及其操作
+# [Git 札记 3] Git基本概念及配置
 
 很多时候使用 Git 时，仅仅使用常用的几条命令，比如：`git add .`,  `git commmit -m 'commit'`,  `git push origin master`  ，但并没有真正的理解Git，若能理解Git的思想和基本工作原理，用起来会知其所以然，游刃有余。
 
