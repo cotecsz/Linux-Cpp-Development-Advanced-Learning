@@ -8,7 +8,7 @@
 
 ### Logistic Regression
 
-1. [[MachineLearning 札记 1\] Logistics with Python.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/[MachineLearning 札记 1] Logistics with Python.md)
+1. [[MachineLearning 札记 1\] Logistics with Python.md]([https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/%5BMachineLearning%20%E6%9C%AD%E8%AE%B0%201%5D%20Logistics%20with%20Python.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/[MachineLearning 札记 1] Logistics with Python.md))
    - [LogisticRegression.py](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/LogisticRegression.py)
 
 ### Introduction to Datasets
@@ -35,13 +35,13 @@
 16. [knn.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/knn.ipynb)
 17. [lr.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/lr.ipynb)
 18. [manifold_learning_example.py](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/manifold_learning_example.py)
-19. [mlp (1).ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/mlp (1).ipynb)
+19. [mlp(1).ipynb]([https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/mlp%20(1).ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/mlp (1).ipynb))
 20. [mlp_example.py](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/mlp_example.py)
 21. [pca_vs_lda.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/pca_vs_lda.ipynb)
 22. [plot_kmeans_assumptions.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/plot_kmeans_assumptions.ipynb)
 23. [random-forest.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/random-forest.ipynb)
 24. [regression_example.py](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/regression_example.py)
-25. [spectral_clustering (1).ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/spectral_clustering (1).ipynb)
+25. [spectral_clustering (1).ipynb]([https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/spectral_clustering%20(1).ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/spectral_clustering (1).ipynb)
 26. [spectral_clustering.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/spectral_clustering.ipynb)
 27. [svm.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/svm.ipynb)
 28. [t-SNE-iris.ipynb](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/ML_Notebook/t-SNE-iris.ipynb)
@@ -64,7 +64,7 @@
 
 ## Reinforcement Learning
 
-1. [[强化学习_1\] 强化学习基本概念及马尔科夫决策过程.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/ReinforcementLearning/[强化学习_1] 强化学习基本概念及马尔科夫决策过程.md)
+1. [[强化学习_1\] 强化学习基本概念及马尔科夫决策过程.md]([https://github.com/cooldeepAI/Learning_Notes/blob/master/ReinforcementLearning/%5B%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0_1%5D%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/ReinforcementLearning/[强化学习_1] 强化学习基本概念及马尔科夫决策过程.md))
 
 
 
@@ -72,7 +72,7 @@
 
 1. [[Git札记 1] GitHub 使用指南.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/%5BGit%E6%9C%AD%E8%AE%B0%201%5D%20GitHub%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 2. [[Git札记 2] GitHub 常用操作及其命令](https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/%5BGit%E6%9C%AD%E8%AE%B0%202%5D%20Github%20%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%E5%8F%8A%E5%85%B6%E5%91%BD%E4%BB%A4.md)
-3. [[Git札记 3\] Git基本概念及其配置.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/[Git札记 3] Git基本概念及其配置.md)
+3. [[Git札记 3\] Git基本概念及其配置.md]([https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/%5BGit%E6%9C%AD%E8%AE%B0%203%5D%20Git%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E9%85%8D%E7%BD%AE.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/TecNotes/[Git札记 3] Git基本概念及其配置.md))
 
 
 
