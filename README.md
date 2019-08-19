@@ -8,7 +8,7 @@
 
 ### Logistic Regression
 
-1. [[MachineLearning 札记 1\] Logistics with Python.md]([https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/%5BMachineLearning%20%E6%9C%AD%E8%AE%B0%201%5D%20Logistics%20with%20Python.md])
+1. [[MachineLearning 札记 1\] Logistics with Python.md](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/%5BMachineLearning%20%E6%9C%AD%E8%AE%B0%201%5D%20Logistics%20with%20Python.md)
    - [LogisticRegression.py](https://github.com/cooldeepAI/Learning_Notes/blob/master/MachineLearning/LogisticRegression/LogisticRegression.py)
 
 ### Introduction to Datasets
