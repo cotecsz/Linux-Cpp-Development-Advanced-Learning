@@ -21,5 +21,10 @@ add_executable(04-1_constMember chap04-初始化列表/04-1_constMember.cpp)
 add_executable(04-2_InitializeList chap04-初始化列表/04-2_InitializeList.cpp)
 add_executable(04-3_constMemory chap04-初始化列表/04-3_constMemory.cpp)
 
-
-
+# chapter 05 对象构造顺序
+add_executable(05-1_LocalVariable chap05-对象构造顺序/05-1_LocalVariable.cpp)
+add_executable(05-2_HeapVariable chap05-对象构造顺序/05-2_HeapVariable.cpp)
+add_executable(05-3_GlobalVariable chap05-对象构造顺序/05-3_GlobalVariable.cpp
+                chap05-对象构造顺序/05-3_Global_2.cpp
+                chap05-对象构造顺序/05-3_Global_1.cpp
+                chap05-对象构造顺序/05-3_Global_3.cpp)
