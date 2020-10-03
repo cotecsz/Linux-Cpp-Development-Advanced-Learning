@@ -152,6 +152,19 @@ SELECT * FROM game_player_score;
 
 <img src="https://static001.geekbang.org/resource/image/8a/30/8afa99e7d1ac1de2c802cf0c61004b30.jpg" alt="img" style="zoom:24%;" />
 
+> 视图的本质：
+>
+> 一个视图其实是SELECT语句的集合，执行时会提前编译好，可以反复使用。在底层执行顺序的时候和SELECT语句是一样：
+> 1、FROM子句组装数据
+> 2、WHERE子句进行条件筛选
+> 3、GROUP BY分组
+> 4、使用聚集函数进行计算；
+> 5、HAVING筛选分组；
+> 6、计算所有的表达式；
+> 7、SELECT 的字段；
+> 8、ORDER BY排序
+> 9、LIMIT筛选
+
 
 
 
