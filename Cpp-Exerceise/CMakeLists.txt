@@ -15,3 +15,11 @@ add_executable(03-3_constructorWithPara chap03-构造函数/03-3_constructorWith
 add_executable(03-4_intArrayMain chap03-构造函数/03-4_intArray.cpp chap03-构造函数/03-4_intArrayMain.cpp)
 add_executable(03-5_defaultConstructor chap03-构造函数/03-5_defaultConstructor.cpp)
 add_executable(03-6_deepCopyVSCopy "chap03-构造函数/03-6_deepCopyVSCopy.cpp")
+
+# chapter 04 初始化列表
+add_executable(04-1_constMember chap04-初始化列表/04-1_constMember.cpp)
+add_executable(04-2_InitializeList chap04-初始化列表/04-2_InitializeList.cpp)
+add_executable(04-3_constMemory chap04-初始化列表/04-3_constMemory.cpp)
+
+
+
