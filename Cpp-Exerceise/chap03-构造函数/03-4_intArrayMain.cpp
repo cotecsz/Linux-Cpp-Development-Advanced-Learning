@@ -27,6 +27,18 @@ int main()
 
     a.free();
 
+    IntArray b = a;
+    for(int i=0; i<b.length(); i++)
+    {
+        int value = 0;
+
+        if( b.get(i, value) )
+        {
+            printf("b[%d] = %d\n", i, value);
+        }
+    }
+
+    b.free();
     return 0;
 }
 
