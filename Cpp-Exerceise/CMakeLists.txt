@@ -28,3 +28,8 @@ add_executable(05-3_GlobalVariable chap05-对象构造顺序/05-3_GlobalVariable
                 chap05-对象构造顺序/05-3_Global_2.cpp
                 chap05-对象构造顺序/05-3_Global_1.cpp
                 chap05-对象构造顺序/05-3_Global_3.cpp)
+
+# chapter 06 析构函数
+add_executable(06-1_intArrayMain chap06-析构函数/06-1_intArrayMain.cpp
+                chap06-析构函数/06-1_intArray.cpp)
+add_executable(06-2_deconstructor chap06-析构函数/06-2_deconstructor.cpp)
