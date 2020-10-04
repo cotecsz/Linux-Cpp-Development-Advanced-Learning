@@ -33,6 +33,7 @@ add_executable(05-3_GlobalVariable chap05-对象构造顺序/05-3_GlobalVariable
 add_executable(06-1_intArrayMain chap06-析构函数/06-1_intArrayMain.cpp
                 chap06-析构函数/06-1_intArray.cpp)
 add_executable(06-2_deconstructor chap06-析构函数/06-2_deconstructor.cpp)
+add_executable(06-3_deconstructorOrder chap06-析构函数/06-3_deconstructorOrder.cpp)
 
 # chapter 07 临时对象
 add_executable(07-1_tempVariable chap07-临时对象/07-1_tempVariable.cpp)
