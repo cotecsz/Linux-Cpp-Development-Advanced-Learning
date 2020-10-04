@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 11)
 
 #chapter 00 经典问题
 add_executable(00-1_constObject chap00-经典问题/00-1_constObject.cpp)
+add_executable(00-2_thisMember chap00-经典问题/00-2_thisMember.cpp)
 
 add_executable(01-1_struct chap01-封装与继承/01-1_struct.cpp)
 
