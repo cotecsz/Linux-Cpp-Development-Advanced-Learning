@@ -58,3 +58,6 @@ add_executable(09-3_TwoPhaseCons chap09-二阶构造模式/09-3_TwoPhaseCons.cpp
 add_executable(10-1_friendFunction chap10-友元/10-1_friendFunction.cpp)
 add_executable(10-2_friendClass chap10-友元/10-2_friendClass.cpp)
 
+# chapter 11 函数重载
+add_executable(11-1_overLoading chap11-函数重载/11-1_overLoading.cpp)
+add_executable(11-2_extendSystemFunction chap11-函数重载/11-2_extendSystemFunction.cpp)
