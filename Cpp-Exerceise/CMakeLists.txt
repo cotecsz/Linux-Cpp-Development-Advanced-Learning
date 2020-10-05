@@ -48,4 +48,8 @@ add_executable(08-1_countObjectNumber chap08-静态成员变量/08-1_countObject
 add_executable(08-2_staticFunction chap08-静态成员变量/08-2_staticFunction.cpp)
 add_executable(08-3_countObjectNumSafe chap08-静态成员变量/08-3_countObjectNumSafe.cpp)
 
-
+# chapter 09 二阶构造模式
+add_executable(09-1_constructorReturn chap09-二阶构造模式/09-1_constructorReturn.cpp)
+add_executable(09-2_intArrayMain chap09-二阶构造模式/09-2_intArrayMain.cpp
+        chap09-二阶构造模式/09-2_intArray.cpp)
+add_executable(09-3_TwoPhaseCons chap09-二阶构造模式/09-3_TwoPhaseCons.cpp)
