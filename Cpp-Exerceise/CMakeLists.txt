@@ -43,5 +43,9 @@ add_executable(07-1_tempVariable chap07-临时对象/07-1_tempVariable.cpp)
 add_executable(07-2_initVariable chap07-临时对象/07-2_initVariable.cpp)
 add_executable(07-3_tempVariableLiftTime chap07-临时对象/07-3_tempVariableLiftTime.cpp)
 
+# chapter 08 静态成员变量
+add_executable(08-1_countObjectNumber chap08-静态成员变量/08-1_countObjectNumber.cpp)
+add_executable(08-2_staticFunction chap08-静态成员变量/08-2_staticFunction.cpp)
+add_executable(08-3_countObjectNumSafe chap08-静态成员变量/08-3_countObjectNumSafe.cpp)
 
 
