@@ -61,3 +61,11 @@ add_executable(10-2_friendClass chap10-友元/10-2_friendClass.cpp)
 # chapter 11 函数重载
 add_executable(11-1_overLoading chap11-函数重载/11-1_overLoading.cpp)
 add_executable(11-2_extendSystemFunction chap11-函数重载/11-2_extendSystemFunction.cpp)
+
+# chapter 12 操作符重载
+add_executable(12-1_ComplexAdd chap12-操作符重载/12-1_ComplexAdd.cpp)
+add_executable(12-2_operator chap12-操作符重载/12-2_operator.cpp)
+add_executable(12-3_ClassOperator chap12-操作符重载/12-3_ClassOperator.cpp)
+add_executable(12-4_ComplexMain chap12-操作符重载/12-4_Complex.cpp
+                chap12-操作符重载/12-4_ComplexMain.cpp)
+
