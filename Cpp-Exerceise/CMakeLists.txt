@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD 11)
 #chapter 00 经典问题
 add_executable(00-1_constObject chap00-经典问题/00-1_constObject.cpp)
 add_executable(00-2_thisMember chap00-经典问题/00-2_thisMember.cpp)
+add_executable(00-3_assignmengCopyConstructor chap00-经典问题/00-3_assignmengCopyConstructor.cpp)
+
 
 add_executable(01-1_struct chap01-封装与继承/01-1_struct.cpp)
 
@@ -68,4 +70,6 @@ add_executable(12-2_operator chap12-操作符重载/12-2_operator.cpp)
 add_executable(12-3_ClassOperator chap12-操作符重载/12-3_ClassOperator.cpp)
 add_executable(12-4_ComplexMain chap12-操作符重载/12-4_Complex.cpp
                 chap12-操作符重载/12-4_ComplexMain.cpp)
+add_executable(12-5_intArrayMain chap12-操作符重载/12-5_intArray.cpp
+                chap12-操作符重载/12-5_intArrayMain.cpp)
 
