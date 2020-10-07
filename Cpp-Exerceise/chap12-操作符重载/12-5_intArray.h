@@ -12,13 +12,16 @@ private:
     int* m_pointer;
 
     IntArray(int len);
+    IntArray(const IntArray& obj);
     bool constructor();
+
 public:
     static IntArray* NewInstance(int len); // 对象创建函数
     int length();
     bool get(int index, int& value);
     bool set(int index ,int value);
 
+    IntArray& operator = (const IntArray& obj);
     int& operator [] (int index);
     IntArray& self();
     ~IntArray();

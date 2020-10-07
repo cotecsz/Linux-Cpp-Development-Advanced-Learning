@@ -4,8 +4,33 @@
 
 
 #include <stdio.h>
+#include <iostream>
 #include "12-5_intArray.h"
 
+using namespace std;
+
+void test_assignment(){
+        IntArray* a = IntArray::NewInstance(5);
+        IntArray* b = IntArray::NewInstance(10);
+
+        if( a && b )
+        {
+            IntArray& array = a->self();
+            IntArray& brray = b->self();
+
+            cout << "array.length() = " << array.length() << endl;
+            cout << "brray.length() = " << brray.length() << endl;
+
+            array = brray;
+
+            cout << "array.length() = " << array.length() << endl;
+            cout << "brray.length() = " << brray.length() << endl;
+        }
+
+        delete a;
+        delete b;
+
+}
 int main()
 {
 
@@ -28,7 +53,7 @@ int main()
         delete a;
     }
 
-
+    test_assignment();
     return 0;
 }
 

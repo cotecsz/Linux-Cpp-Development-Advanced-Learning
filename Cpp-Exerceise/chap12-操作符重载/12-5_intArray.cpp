@@ -9,6 +9,15 @@ IntArray::IntArray(int len)
     m_length = len;
 }
 
+IntArray::IntArray(const IntArray& obj) {
+    m_length = obj.m_length;
+
+    m_pointer = new int[m_length];
+    for (int i=0; i<m_length; i++){
+        m_pointer[i] = obj.m_pointer[i];
+    }
+}
+
 bool IntArray::constructor() {
     m_pointer = new int[m_length];
     if (m_pointer){
@@ -65,6 +74,23 @@ bool IntArray::set(int index, int value)
     }
 
     return ret;
+}
+
+IntArray& IntArray::operator=(const IntArray &obj) {
+    if (this != &obj){
+        int* pointer = new int[obj.m_length];
+
+        if (pointer){
+            for (int i=0; i < m_length; i++){
+                pointer[i] = obj.m_pointer[i];
+            }
+        }
+        m_length = obj.m_length;
+        delete m_pointer;
+        m_pointer = pointer;
+    }
+
+    return *this;
 }
 
 int& IntArray::operator[](int index) {
