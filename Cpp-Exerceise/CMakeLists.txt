@@ -73,3 +73,8 @@ add_executable(12-4_ComplexMain chap12-操作符重载/12-4_Complex.cpp
 add_executable(12-5_intArrayMain chap12-操作符重载/12-5_intArray.cpp
                 chap12-操作符重载/12-5_intArrayMain.cpp)
 
+
+# chapter 13 智能指针
+add_executable(13-1_MemoryLeak chap13-智能指针/13-1_MemoryLeak.cpp)
+add_executable(13-2_autoPointer chap13-智能指针/13-2_autoPointer.cpp)
+
