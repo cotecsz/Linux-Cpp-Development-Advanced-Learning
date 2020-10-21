@@ -78,3 +78,8 @@ add_executable(12-5_intArrayMain chap12-操作符重载/12-5_intArray.cpp
 add_executable(13-1_MemoryLeak chap13-智能指针/13-1_MemoryLeak.cpp)
 add_executable(13-2_autoPointer chap13-智能指针/13-2_autoPointer.cpp)
 
+# chapter 15 类型转换
+add_executable(15-1_CTypeTrans chap15-类型转换/15-1_CTypeTrans.cpp)
+add_executable(15-2_CppClassTypeTrans chap15-类型转换/15-2_CppClassTypeTrans.cpp)
+add_executable(15-3_ClassTypeToBuildType chap15-类型转换/15-3_ClassTypeToBuildType.cpp)
+add_executable(15-4_TransConstrClassTypeToClassType chap15-类型转换/15-4_TransConstrClassTypeToClassType.cpp)
