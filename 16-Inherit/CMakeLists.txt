@@ -1,0 +1,12 @@
+project(16-Inherit)
+
+add_executable(16-1_InheritFirst 16-1_InheritFirst.cpp)
+add_executable(16-2_InheritExample2 16-2_InheritExample2.cpp)
+add_executable(16-3_Accessiable 16-3_Accessiable.cpp)
+add_executable(16-4_ChildInitParent 16-4_ChildInitParent.cpp)
+add_executable(16-5_ConstructorOrder 16-5_ConstructorOrder.cpp)
+add_executable(16-6_DeconstructorOrder.cpp 16-6_DeconstructorOrder.cpp)
+add_executable(16-7_NameConfict 16-7_NameConfict.cpp)
+add_executable(16-8_Overloading 16-8_Overloading.cpp)
+add_executable(16-9_ChildParentMember 16-9_ChildParentMember.cpp)
+add_executable(16-10_Overwriting 16-10_Overwriting.cpp)
