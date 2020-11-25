@@ -1,0 +1,6 @@
+project(chap22-ClassTemplate)
+
+add_executable(22-1_ClassTemplateCompile 22-1_ClassTemplateCompile.cpp)
+add_executable(22-2_PracticeClassTemplate 22-2_PracticeClassTemplate.cpp)
+add_executable(22-3_TemplateSpecialization 22-3_TemplateSpecialization.cpp)
+add_executable(22-4_FunctionTemplateSpecialization 22-4_FunctionTemplateSpecialization.cpp)
