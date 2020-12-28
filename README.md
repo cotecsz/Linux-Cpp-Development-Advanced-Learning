@@ -57,5 +57,5 @@
 
 &emsp;
 ## 公众号 ## 
-
+欢迎加入**小镇编程实验室**，一起学习成长，共同进步:wave::wave:
 ![wechat](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/blob/master/images/wechat.png)
