@@ -204,15 +204,15 @@ or git push
 
 打开 `GitHub Desktop` ， 登陆GitHub账号，新建或者克隆一个仓库。
 
-![image-20190809203340546](file:///Users/lyj/LearningNotes/TecNotes/images/new_clone.png?lastModify=1565355549)
+![image-20190809203340546](./images/new_clone.png?lastModify=1565355549)
 
 选择 `Create a new repository` 或者 `clone repository` 
 
-![image-20190809203706834](file:///Users/lyj/LearningNotes/TecNotes/images/create.png?lastModify=1565355549)
+![image-20190809203706834](./images/create.png?lastModify=1565355549)
 
 可以看到仓库界面：
 
-![image-20190809205140449](file:///Users/lyj/LearningNotes/TecNotes/images/upload.png?lastModify=1565355549)
+![image-20190809205140449](./images/upload.png?lastModify=1565355549)
 
 
 
@@ -220,17 +220,17 @@ or git push
 
 在本地创建仓库后，我们需要把仓库推送至GitHub
 
-![image-20190809205521684](file:///Users/lyj/LearningNotes/TecNotes/images/push.png?lastModify=1565355549)
+![image-20190809205521684](./images/push.png?lastModify=1565355549)
 
 推送之后，界面会变成下图，
 
-![img](file:///Users/lyj/LearningNotes/TecNotes/images/desktop.png?lastModify=1565355549)
+![img](./images/desktop.png?lastModify=1565355549)
 
 ### Step 3: Create a New Branch
 
 GitHub 的版本控制通过 `branch` 进行管理，当我们需要保存当前的版本，并且在当前版本上进行修改时，可通过创建新的分支，把新的更新放在 `branch` 中， 如果需要恢复至更改之前的文件，则只需要修改至原来的 `branch`即可。
 
-![image-20190809205830735](file:///Users/lyj/LearningNotes/TecNotes/images/branch.png?lastModify=1565355549)
+![image-20190809205830735](./images/branch.png?lastModify=1565355549)
 
 ### Step 4: Push Branch 
 

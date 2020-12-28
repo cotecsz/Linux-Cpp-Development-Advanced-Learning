@@ -4,7 +4,7 @@ Git系列笔记记录日常Git命令使用。
 
 [TOC]
 
-## Start to Manage Your Projects
+## 开始管理仓库
 
 1. 在 `GitHub` 上新建一个项目（详细参照上一篇 `GitHub使用指南` ） 
 2. 在本地创建文件夹以保存项目
@@ -38,11 +38,9 @@ or git push origin master
 
 
 
-## Common Commands
+## 常用操作
 
-### Local
-
-#### Revoke commit  (NOT PUSH)
+### 撤销 commit  (NOT PUSH)
 
 ```bash
 git commit --amend
@@ -52,17 +50,17 @@ git commit --amend
 
 
 
-### Remote
-
-#### Change directory name or file name
+### 更改目录/文件名
 
 ```bash
 git mv old_directory[old_file] new_directory[old_file] 
 ```
 
-#### Update local repository from romote repository
 
-##### Fetch directly to local and merge remote
+
+### 从远程仓库拉取更新本地仓库
+
+#### Fetch directly to local and merge remote
 
 1. 在GitHub修改了文件，比如修改文件名，或者修改了文件
 2. 将远程仓库拉取至本地仓库
@@ -84,7 +82,7 @@ git log -p master.. origin/master
 git merge origin/master
 ```
 
-##### Fetch indirectly to temp local and merge remote or delete temp
+#### Fetch indirectly to temp local and merge remote or delete temp
 
 1. 查看远程仓库
 
@@ -113,7 +111,7 @@ git branch -D temp # 删除
 
 
 
-## Others
+## 其他
 
 1. 在 `Terminal` 查看使用Git 查看 `git status` ，中文使用八进制显示，如何解决？
 
@@ -161,8 +159,6 @@ git config --global core.quotepath false
    ```
    
    
-
-
 
 ## Reference
 
