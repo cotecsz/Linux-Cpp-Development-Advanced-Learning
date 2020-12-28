@@ -58,4 +58,4 @@
 &emsp;
 ## 公众号 ## 
 
-![wechat](E:\Cpp-Development-Learning-Notes\images\wechat.png)
+![wechat](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/blob/master/images/wechat.png)
