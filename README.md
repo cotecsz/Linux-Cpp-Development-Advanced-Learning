@@ -1,5 +1,6 @@
 # Linux Cpp 后台开发进阶学习
-[![](https://img.shields.io/badge/wechat-微信交流-orange)](#公众号) [![](https://img.shields.io/github/issues/cotecsz/Linux-Cpp-Development-Advanced-Learning.svg)](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/issues)
+[![](https://img.shields.io/badge/wechat-微信交流-orange)](#公众号) 
+[![](https://img.shields.io/github/issues/cotecsz/Linux-Cpp-Development-Advanced-Learning.svg)](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/issues)
 [![](https://img.shields.io/github/forks/cotecsz/Linux-Cpp-Development-Advanced-Learning.svg)](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/network) 
 [![](https://img.shields.io/github/stars/cotecsz/Linux-Cpp-Development-Advanced-Learning.svg)](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/stargazers)
 </br>
