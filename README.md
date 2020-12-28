@@ -74,11 +74,12 @@
 - [数据结构系列(一) 排序算法](https://blog.csdn.net/DreamRE/article/details/110205687)
 
 
+&emsp;
 ## 项目
-1. 用`C`实现简易线程池（开发ing）
-2. 校招人手必备的高性能网络服务器（开发ing）
+1. **用`C`实现简易线程池**（开发ing）
+2. **校招人手必备的高性能网络服务器**（开发ing）
 
 &emsp;
 ## 公众号 ## 
-欢迎加入**小镇编程实验室**，一起学习成长，共同进步:wave::wave:
+欢迎加入**小镇编程实验室** ，一起学习成长，共同进步:wave::wave:
 ![wechat](https://github.com/cotecsz/Linux-Cpp-Development-Advanced-Learning/blob/master/images/wechat.png)
