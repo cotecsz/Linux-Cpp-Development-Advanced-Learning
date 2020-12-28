@@ -45,8 +45,8 @@
 
 &emsp;
 ### Leetcode 刷题系列
-- [Leetcode刷题系列(一) 树](https://blog.csdn.net/DreamRE/article/details/110150717)
-- [Leetcode刷题系列(四) 堆](https://blog.csdn.net/DreamRE/article/details/110149991)
+- [Leetcode刷题系列（一）树](https://blog.csdn.net/DreamRE/article/details/110150717)
+- [Leetcode刷题系列（四） 堆](https://blog.csdn.net/DreamRE/article/details/110149991)
 - [Leetcode刷题系列（五）链表](https://blog.csdn.net/DreamRE/article/details/110250664)
 - [Leetcode刷题系列（六）贪心算法](https://blog.csdn.net/DreamRE/article/details/110880546)
 
