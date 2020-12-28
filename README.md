@@ -8,7 +8,7 @@
 ## Git
 - [Git札记（一）GitHub 使用指南](https://blog.csdn.net/DreamRE/article/details/111809098)
 - [Git札记（二）Github 常用操作及其命令](https://blog.csdn.net/DreamRE/article/details/111813904)
-- [Git 札记（三）Git基本概念及配置](https://blog.csdn.net/DreamRE/article/details/111814819)
+- [Git札记（三）Git基本概念及配置](https://blog.csdn.net/DreamRE/article/details/111814819)
 - [Git札记（四）Git提交更新到仓库](https://blog.csdn.net/DreamRE/article/details/111815300)
 
 
