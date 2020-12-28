@@ -44,7 +44,7 @@
 
 &emsp;
 ## 数据结构与算法
-### 剑指offer
+### 剑指offer系列
 #### 链表
 - [JZ-06-从头到尾打印链表](https://blog.csdn.net/DreamRE/article/details/110516674)
 - [JZ-18-删除链表节点](https://blog.csdn.net/DreamRE/article/details/110517117)
