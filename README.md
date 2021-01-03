@@ -32,6 +32,7 @@
 - [Linux系统编程（七）文件权限系统调用](https://blog.csdn.net/DreamRE/article/details/111537051)
 - [Linux系统编程（八）目录操作系统调用](https://blog.csdn.net/DreamRE/article/details/111542237)
 - [Linux系统编程（九）dup、dup2 和 fcntl](https://blog.csdn.net/DreamRE/article/details/111587698)
+- [Linux系统编程（十）exec 族函数](https://blog.csdn.net/DreamRE/article/details/112148203)
 
 
 
